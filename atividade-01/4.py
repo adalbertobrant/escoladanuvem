@@ -16,7 +16,7 @@ total = quantidade * preco_unitario
 
 print(f"Preço total do produto -> {nome_do_produto}")
 print(f"Nome do produto => {nome_do_produto}")
-print(f"Preço Unitário => {preco_unitario:.2f}")
+print(f"Preço Unitário => R$ {preco_unitario:.2f}")
 print(f"Quantidade => {quantidade}")
 print(f"Total => R$ {total:.2f}")
 
