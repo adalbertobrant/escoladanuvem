@@ -1,14 +1,16 @@
-Prática 01:
+# Prática 01:
 
-1- Programa de Saudação
+## 1- Programa de Saudação 
 * Crie um programa que imprima a mensagem "Olá, mundo!" na tela.
+* <a href="url">Texto do link</a>
 
-2- Calculadora de Soma
+## 2- Calculadora de Soma
 * Desenvolva um programa que soma dois números. 
 * Use as variáveis numero1 = 12 e numero2 = 14. 
 * O programa deve calcular a soma e exibir o resultado.
+* <a href="url">Texto do link</a>
 
-3- Calculadora de Volume
+## 3- Calculadora de Volume
 * Crie um programa que calcula o volume de uma caixa retangular. 
 * Use as seguintes dimensões:
 
@@ -17,8 +19,9 @@ Prática 01:
 * Altura: 20 cm
 
 *O programa deve calcular o volume e exibir o resultado em cm³.
+<a href="url">Texto do link</a>
 
-4- Calculadora de Preço Total
+## 4- Calculadora de Preço Total
 * Desenvolva um programa que calcula o preço total de uma compra. 
 * Use as seguintes informações:
 
@@ -27,3 +30,4 @@ Prática 01:
 * Quantidade: 3
 
 * O programa deve calcular o preço total e exibir todas as informações, incluindo o resultado final.
+* <a href="url">Texto do link</a>
