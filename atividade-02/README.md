@@ -8,7 +8,7 @@ Crie um programa que converte um valor em reais para dólares e euros. Use os se
 * Taxa do euro: R$ 6.15
 O programa deve calcular e exibir os valores convertidos, arredondando para duas casas decimais.
 * <a href="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-02/conversor_moedas.py">Conversor de Moeda</a>
-* <img src="" alt="Conversor de Moeda" width="300" />
+* <img src="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-02/fotos/conversor_moedas.png" alt="Conversor de Moeda" width="300" />
 
 
 ## 2- Calculadora de Desconto
