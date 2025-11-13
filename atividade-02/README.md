@@ -28,8 +28,8 @@ Crie um programa que calcula a média escolar de um aluno. Use as seguintes nota
 * Nota 2: 8.0
 * Nota 3: 6.5
 O programa deve calcular a média e exibir todas as notas e o resultado final, arredondando para duas casas decimais.
-* <a href="">Calculadora de Média Escolar</a>
-* <img src="" alt="Calculadora de Média Escolar" width="300" />
+* <a href="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-02/media_escolar.py">Calculadora de Média Escolar</a>
+* <img src="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-02/fotos/media_escolar.png" alt="Calculadora de Média Escolar" width="300" />
 
 ## 4- Calculadora de Consumo de Combustível
 Desenvolva um programa que calcula o consumo médio de combustível de um veículo. Use os seguintes dados:
