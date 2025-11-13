@@ -7,6 +7,9 @@ Crie um programa que converte um valor em reais para dólares e euros. Use os se
 * Taxa do dólar: R$ 5.20
 * Taxa do euro: R$ 6.15
 O programa deve calcular e exibir os valores convertidos, arredondando para duas casas decimais.
+* <a href="">Conversor de Moeda</a>
+* <img src="" alt="Conversor de Moeda" width="300" />
+
 
 ## 2- Calculadora de Desconto
 Desenvolva um programa que calcula o desconto em uma loja. Use as seguintes informações:
@@ -15,6 +18,8 @@ Desenvolva um programa que calcula o desconto em uma loja. Use as seguintes info
 * Preço original: R$ 50.00
 * Porcentagem de desconto: 20%
 O programa deve calcular o valor do desconto e o preço final, exibindo todos os detalhes.
+* <a href="">Calculadora de Desconto</a>
+* <img src="" alt="Calculadora de Desconto" width="300" />
 
 ## 3- Calculadora de Média Escolar
 Crie um programa que calcula a média escolar de um aluno. Use as seguintes notas:
@@ -23,6 +28,8 @@ Crie um programa que calcula a média escolar de um aluno. Use as seguintes nota
 * Nota 2: 8.0
 * Nota 3: 6.5
 O programa deve calcular a média e exibir todas as notas e o resultado final, arredondando para duas casas decimais.
+* <a href="">Calculadora de Média Escolar</a>
+* <img src="" alt="Calculadora de Média Escolar" width="300" />
 
 ## 4- Calculadora de Consumo de Combustível
 Desenvolva um programa que calcula o consumo médio de combustível de um veículo. Use os seguintes dados:
@@ -30,3 +37,5 @@ Desenvolva um programa que calcula o consumo médio de combustível de um veícu
 * Distância percorrida: 300 km
 * Combustível gasto: 25 litros
 O programa deve calcular o consumo médio (km/l) e exibir todos os dados da viagem, incluindo o resultado final arredondado para duas casas decimais.
+* <a href="">Calculadora de Consumo de Combustível</a>
+* <img src="" alt="Calculadora de Consumo de Combustível" width="300" />
