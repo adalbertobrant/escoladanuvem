@@ -37,5 +37,5 @@ Desenvolva um programa que calcula o consumo médio de combustível de um veícu
 * Distância percorrida: 300 km
 * Combustível gasto: 25 litros
 O programa deve calcular o consumo médio (km/l) e exibir todos os dados da viagem, incluindo o resultado final arredondado para duas casas decimais.
-* <a href="">Calculadora de Consumo de Combustível</a>
-* <img src="" alt="Calculadora de Consumo de Combustível" width="300" />
+* <a href="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-02/calculadora_consumo.py">Calculadora de Consumo de Combustível</a>
+* <img src="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-02/fotos/calculadora_consumo.png" alt="Calculadora de Consumo de Combustível" width="300" />
