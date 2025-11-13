@@ -9,5 +9,5 @@
 | Nome da Atividade | Link da Atividade                    | Descrição |
 |-------------------|------------------------------------|--------------|
 | Atividade 1       | [Acessar](https://github.com/adalbertobrant/escoladanuvem/tree/main/atividade-01)   |  Cálculos Matemáticos em python3 |
-| Atividade 2       | [Acessar]([https://exemplo.com/2](https://github.com/adalbertobrant/escoladanuvem/tree/main/atividade-02))   |  Entradas em python3  |
+| Atividade 2       | [Acessar](https://github.com/adalbertobrant/escoladanuvem/tree/main/atividade-02)   |  Entradas em python3  |
 | Atividade 3       | [Acessar](https://exemplo.com/3)   |
