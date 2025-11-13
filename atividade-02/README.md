@@ -18,8 +18,8 @@ Desenvolva um programa que calcula o desconto em uma loja. Use as seguintes info
 * Preço original: R$ 50.00
 * Porcentagem de desconto: 20%
 O programa deve calcular o valor do desconto e o preço final, exibindo todos os detalhes.
-* <a href="">Calculadora de Desconto</a>
-* <img src="" alt="Calculadora de Desconto" width="300" />
+* <a href="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-02/calculadora_desconto.py">Calculadora de Desconto</a>
+* <img src="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-02/fotos/calculadora_desconto.png" alt="Calculadora de Desconto" width="300" />
 
 ## 3- Calculadora de Média Escolar
 Crie um programa que calcula a média escolar de um aluno. Use as seguintes notas:
