@@ -9,7 +9,7 @@ em uma das seguintes categorias:
 * Adulto (18-59 anos) ou
 * Idoso (60 anos ou mais).
 
-* <a href="">Classificador de Idade</a>
+* <a href="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-03/classificador_idade.py">Classificador de Idade</a>
 * <img src="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-03/fotos/classificador_idade.png" alt="Classificador de Idade" width="300" />
 
 
@@ -23,12 +23,22 @@ calcular o IMC e fornecer a classificação de acordo com a tabela padrão de IM
 < 30: classificacao = "Sobrepeso"
 Para os demais cenários: classificacao = "Obeso"
 
+* <a href="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-03/calculadora_IMC.py">Calculadora de IMC</a>
+* <img src="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-03/fotos/calculadora_imc.png" alt="Calculadora de IMC" width="300" />
+
 ## 3- Conversor de Temperatura
 Crie um programa que converta temperaturas entre Celsius, Fahrenheit e Kelvin.
 O usuário deve informar a temperatura, a unidade de origem e a unidade para qual deseja converter.
 
+* <a href="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-03/conversor_temperatura.py">Conversor de Temperatura</a>
+* <img src="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-03/fotos/conversor_temperatura.png" alt="Conversor de Temperatura" width="300" />
+
 ## 4- Verificador de Ano Bissexto
 Faça um programa que determine se um ano inserido pelo usuário é bissexto ou não.
 Um ano é bissexto se for divisível por 4, exceto anos centenários (divisíveis por 100) que não são divisíveis por 400.
+
+* <a href="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-03/ano_bissexto.py">Verificador de Ano Bissexto</a>
+* <img src="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-03/fotos/ano_bissexto.png" alt="Verificador de Ano Bissexto" width="300" />
+
 
 
