@@ -4,10 +4,14 @@
 Crie um programa que solicite a idade do usuário e classifique-o
 em uma das seguintes categorias:
 
-*Criança (0-12 anos),
-*Adolescente (13-17 anos),
-*Adulto (18-59 anos) ou
-*Idoso (60 anos ou mais).
+* Criança (0-12 anos),
+* Adolescente (13-17 anos),
+* Adulto (18-59 anos) ou
+* Idoso (60 anos ou mais).
+
+* <a href="">Classificador de Idade</a>
+* <img src="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-03/fotos/classificador_idade.png" alt="Classificador de Idade" width="300" />
+
 
 ## 2- Calculadora de IMC
 Desenvolva um programa que calcule o Índice de Massa Corporal (IMC) de uma pessoa.
