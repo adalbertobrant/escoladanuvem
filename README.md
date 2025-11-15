@@ -10,7 +10,7 @@
 |-------------------|------------------------------------|--------------|
 | Atividade 1       | [Acessar](https://github.com/adalbertobrant/escoladanuvem/tree/main/atividade-01)   |  Cálculos Matemáticos em python3 |
 | Atividade 2       | [Acessar](https://github.com/adalbertobrant/escoladanuvem/tree/main/atividade-02)   |  Entradas em python3  |
-| Atividade 3       | [Acessar](https://github.com/adalbertobrant/escoladanuvem/tree/main/atividade-03)   |  Estruturas de decisão  |
+| Atividade 3       | [Acessar](https://github.com/adalbertobrant/escoladanuvem/tree/main/atividade-03)   |  Estruturas de decisão (if, elif, else) |
 | Atividade 4 |  |  |
 | Atividade 5 |  |  |
 | Atividade 6 |  |  |
