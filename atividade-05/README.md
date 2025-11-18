@@ -22,15 +22,19 @@ float: O valor da gorjeta calculada
 
 ## Exercício Prático 2
 
-2-  Crie uma função que verifique se uma palavra ou frase é um palíndromo (lê-se igual de trás para frente, ignorando espaços e pontuação). Se o resultado é True, responda “Sim”, se o resultado for False, responda “Não”.
+Crie uma função que verifique se uma palavra ou frase é um palíndromo (lê-se igual de trás para frente, ignorando espaços e pontuação). Se o resultado é True, responda “Sim”, se o resultado for False, responda “Não”.
 
 * <a href="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-05/2.py">Função Verifica Palíndromos</a>
 * <img src="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-05/fotos/2.png" alt="Função Verifica Palíndromos" width="300" />
 
 
+## Exercício Prático 3
 
 3 - Crie um programa que serve para calcular o preço final de um produto após aplicar um desconto percentual.
 a - Cálculo de desconto: Calcula o valor do desconto baseado em uma porcentagem.
 b - Preço final: Determina o novo preço após o desconto.
 c - Formatação: Arredonda o resultado para 2 casas decimais (centavos).
 d - Interação com usuário: Pede os valores necessários e mostra o resultado formatado.
+* <a href="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-05/3.py">Função Desconto preço do produto</a>
+* <img src="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-05/fotos/3.png" alt="Função Desconto preço do produto" width="300" />
+
