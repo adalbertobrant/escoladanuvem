@@ -15,3 +15,7 @@ porcentagem_gorjeta (float): A porcentagem da gorjeta (ex: 15 para 15%)
 Retorna:
 
 float: O valor da gorjeta calculada
+
+* <a href="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-05/1.py">Função Calculadora de Gorjeta</a>
+* <img src="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-05/fotos/1.png" alt="Função Calculadora de Gorjeta" width="300" />
+
