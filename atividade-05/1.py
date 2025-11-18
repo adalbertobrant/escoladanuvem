@@ -23,7 +23,5 @@ def main():
         
     except ValueError:
         print("\n[Erro] Por favor, digite apenas números para o valor da conta e a porcentagem (use ponto para decimais).")
-
-# A CORREÇÃO PRINCIPAL ESTÁ AQUI ABAIXO:
 if __name__ == "__main__":
     main()
