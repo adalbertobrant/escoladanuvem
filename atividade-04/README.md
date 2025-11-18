@@ -25,3 +25,12 @@ Use try/except para capturar e tratar os erros apropriadamente.
 Após cada erro, o programa deve informar o usuário sobre o erro e solicitar nova entrada.
 
 Quando uma operação é concluída com sucesso, exiba o resultado e encerre o programa.
+
+
+## Exercício Prático 2
+
+Crie um programa que permita a um professor registrar as notas de uma turma. O programa deve continuar solicitando notas até que o professor digite 'fim'. Notas válidas são de 0 a 10. O programa deve ignorar notas inválidas e continuar solicitando. No final, deve exibir a média da turma.
+
+
+
+
