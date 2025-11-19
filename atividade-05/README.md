@@ -38,3 +38,11 @@ d - Interação com usuário: Pede os valores necessários e mostra o resultado 
 * <a href="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-05/3.py">Função Desconto preço do produto</a>
 * <img src="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-05/fotos/3.png" alt="Função Desconto preço do produto" width="300" />
 
+## Exercício Prático 4
+
+Crie uma função que calcule a idade de uma pessoa em dias,
+baseada no ano de nascimento.
+
+* <a href="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-05/4.py">Função idade em dias</a>
+* <img src="https://github.com/adalbertobrant/escoladanuvem/blob/main/atividade-05/fotos/4.png" alt="Função idade em dias" width="300" />
+
