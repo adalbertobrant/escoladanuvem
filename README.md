@@ -13,7 +13,7 @@
 | Atividade 3       | [Acessar](https://github.com/adalbertobrant/escoladanuvem/tree/main/atividade-03)   |  Estruturas de decisão (if, elif, else) |
 | Atividade 4       | [Acessar](https://github.com/adalbertobrant/escoladanuvem/tree/main/atividade-04)   |  Estruturas de repetição e try & except |
 | Atividade 5       | [Acessar](https://github.com/adalbertobrant/escoladanuvem/tree/main/atividade-05)   |  Funções em python |
-| Atividade 6 |  |  |
+| Atividade 6       | [Acessar](https://github.com/adalbertobrant/escoladanuvem/tree/main/atividade-06)   |  Bibliotecas e API's |
 | Atividade 7 |  |  |
 | Atividade 8 |  |  |
 | Atividade 9 |  |  |
