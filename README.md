@@ -14,7 +14,5 @@
 | Atividade 4       | [Acessar](https://github.com/adalbertobrant/escoladanuvem/tree/main/atividade-04)   |  Estruturas de repetição e try & except |
 | Atividade 5       | [Acessar](https://github.com/adalbertobrant/escoladanuvem/tree/main/atividade-05)   |  Funções em python |
 | Atividade 6       | [Acessar](https://github.com/adalbertobrant/escoladanuvem/tree/main/atividade-06)   |  Bibliotecas e API's |
-| Atividade 7 |  |  |
-| Atividade 8 |  |  |
-| Atividade 9 |  |  |
+| Atividade 7       | [Acessar](https://github.com/adalbertobrant/escoladanuvem/tree/main/atividade-07)   |  Leitura de arquivos CSV, JSON |
 
